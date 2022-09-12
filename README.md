@@ -1,4 +1,4 @@
-# Ecommerce-Project-Django
+# Ecommerce-Project-Django..
 
 <img class="fit-picture"
      src="https://github.com/Khobayeb/Ecommerce-Project-Django/blob/main/ecom0.PNG"
